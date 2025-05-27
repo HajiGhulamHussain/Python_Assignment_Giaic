@@ -1,0 +1,16 @@
+[
+    {
+        "title": "spartacus",
+        "author": "haji Ghulam",
+        "year": 2020,
+        "genre": "Action",
+        "read_status": "Not Read"
+    },
+    {
+        "title": "cindrella",
+        "author": "willam",
+        "year": 2021,
+        "genre": "drama",
+        "read_status": "Reading"
+    }
+]
